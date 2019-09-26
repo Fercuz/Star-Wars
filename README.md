@@ -9,7 +9,9 @@ Se desarrollara la aplicación ( Star Wars - Catálogo Online ) que permitira ve
 # Integrates del Proyecto
 
 Adriana Leidy Matínez Beltrán ( Codigo : 1821981791 )
+
 Reynaldo Vargas Gaitán ( Codigo 1811020880 )
+
 Mateo Álvarez García ( Codigo : 1810660157 )
 
 ## Instrucciones
