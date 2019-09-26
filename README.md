@@ -2,11 +2,11 @@
 
 Catálogo Online - Star Wars
 
-# Descripción del Proyecto
+# Descripción
 
 Se desarrollara la aplicación ( Star Wars - Catálogo Online ) que permitira ver toda la informacion relevante de las peliculas de Star Wars, como requisito la solución debera utilizar el framework Angular, Se propone la creación de una API propia que provea la consulta de información y permita la administración de contenidos, basado en el framework Laravel.
 
-## Integrates del Proyecto
+# Integrates
 
 Adriana Leidy Matínez Beltrán ( Codigo : 1821981791 )
 
