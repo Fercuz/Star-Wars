@@ -11,8 +11,10 @@ Se desarrollara la aplicación ( Star Wars - Catálogo Online ) que permitira ve
 
 Ejecuta `ng serve` para iniciar el servidor de desarrollo. ingresa al enlace http://localhost:4200/, la aplicacion cambiara automaticamente si encuentra algun cambio en los archivos fuentes del proyecto.
 
-## Integrates del Proyecto
+#### Integrates del Proyecto
 
 Adriana Leidy Matínez Beltrán ( Codigo : 1821981791 )
+
 Reynaldo Vargas Gaitán ( Codigo 1811020880 )
+
 Mateo Álvarez García ( Codigo : 1810660157 )
